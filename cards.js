@@ -2,9 +2,13 @@
  * []Crear tarjeta
  * [x]Crear secciones p/tarjeta
  * []Img
- * []Nombre, desc, edad, lista de lgo
- * []Insertar en la tarjeta
- * []Mostrar dentro de div.container
+ * Nombre, desc, edad, lista de lgo
+ * [x]Insertar en la tarjeta
+ * [x]Mostrar dentro de div.container
+ * [] Crear funciones reutilizables
+ * [] Funciones para crear items
+ * [] Funciones para inyectar texto 
+ * []Funciones para renderizar
  */
 
 const CARDS_CONTAINER = document.querySelector("#card-container"); // porque es global?
